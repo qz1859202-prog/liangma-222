@@ -4,26 +4,6 @@
   "source_origin": "https://liangma-atlas-222.robusthill35.chatgpt.site",
   "files": [
     {
-      "path": "HLS-LICENSE.txt",
-      "sha256": "ca8773cf798c7ed997d4dd7c8e23c348699f8d5b7462636694cc14de6cda12db"
-    },
-    {
-      "path": "app.js",
-      "sha256": "aa6d1ae84c9b907b3ca3495839ae2b9467171cb611afb4147835be8e3b4752eb"
-    },
-    {
-      "path": "atlas.js",
-      "sha256": "88d2e4a25e0162c2ad8a072d096d62b085cd580c6b7f338b2f8cb7a342e8b4e5"
-    },
-    {
-      "path": "collection.js",
-      "sha256": "3d10a1702bc8e5b9f36d89caaa6169f34e13edadf58d9b5adbd50afdcdd65c78"
-    },
-    {
-      "path": "cover.png",
-      "sha256": "c48c24381b14328811cda79baf0ec82e86d1fe6ea680c34316e431d2241e6b8a"
-    },
-    {
       "path": "films/exeed-et5/index.m3u8",
       "sha256": "d66b6d8aac3573ba621eb9fe12e2680e8fa8f521f3d74dbddcd9fcfa7f8204ca"
     },
@@ -890,22 +870,7 @@
     {
       "path": "films/zizhi-tongjian/poster.webp",
       "sha256": "dfdc426c0a6c9260b26399e58281525b6c7bb6c77d4c2b6864432ddfd077e52c"
-    },
-    {
-      "path": "hls.light.min.js",
-      "sha256": "0251332c00a216a35d7d6919044d60da82b78beb3bd50ac6c662ae74a2f5474b"
-    },
-    {
-      "path": "index.html",
-      "sha256": "8f3682cb5672bf724afbb1d4d15fac924038a22764218f76caa0e0c0bff997f5"
-    },
-    {
-      "path": "intro.js",
-      "sha256": "826a8c7b332bf88eed9e64e09a49430cc2a7be1a288132fa6978430b0f31bb34"
-    },
-    {
-      "path": "style.css",
-      "sha256": "9fa07476b20044940e643b3644a94fe7da6b95d7db29a695ca46b4ccf425fbd2"
     }
-  ]
+  ],
+  "code_sha256": "1d7b91d80fc1d80890ddf8efde88fb299d145f8701b223941ebb5ffb94583d2f"
 }
